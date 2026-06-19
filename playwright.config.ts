@@ -6,7 +6,7 @@ export default defineConfig({
 
   timeout: 60000,
 
-  retries: 1,
+  retries: 1, 
 
   use: {
 
