@@ -1,0 +1,13 @@
+[INFO] Launching Application
+[INFO] Executing Login
+Login Successful
+[INFO] Adding Product
+[INFO] Opening Cart
+Sauce Labs Backpack Found
+[INFO] Checkout Started
+[INFO] Entering Customer Details
+[INFO] Finishing Order
+[INFO] Verifying Success
+[INFO] Message : Thank you for your order!
+Logout Executed
+Logout Successful

@@ -1,0 +1,45 @@
+[
+    {
+        "keyword":"LAUNCH_APP"
+    },
+    {
+        "keyword":"LOGIN",
+        "username":"standard_user",
+        "password":"secret_sauce"
+    },
+    {
+        "keyword":"VERIFY_LOGIN"
+    },
+    {
+        "keyword":"ADD_PRODUCT",
+        "product":"Sauce Labs Backpack"
+    },
+    {
+        "keyword":"OPEN_CART"
+    },
+    {
+        "keyword":"VERIFY_PRODUCT",
+        "product":"Sauce Labs Backpack"
+    },
+    {
+        "keyword":"CHECKOUT"
+    },
+    {
+        "keyword":"ENTER_DETAILS",
+        "firstName":"Chakri",
+        "lastName":"Reddy",
+        "postalCode":"500001"
+    },
+    {
+        "keyword":"FINISH_ORDER"
+    },
+    {
+        "keyword":"VERIFY_SUCCESS"
+    },
+    {
+        "keyword":"LOGOUT"
+    },
+    {
+        "keyword":"VERIFY_LOGOUT"
+    }
+]   
